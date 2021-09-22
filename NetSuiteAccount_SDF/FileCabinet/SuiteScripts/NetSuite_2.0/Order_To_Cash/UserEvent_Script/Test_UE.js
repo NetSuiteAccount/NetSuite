@@ -13,7 +13,7 @@ function(record) {
     }
 
     function beforeSubmit(scriptContext) {
-
+    	log.debug('Test2 for Test_Branch_2 changes');
     }
 
     function afterSubmit(scriptContext) {
