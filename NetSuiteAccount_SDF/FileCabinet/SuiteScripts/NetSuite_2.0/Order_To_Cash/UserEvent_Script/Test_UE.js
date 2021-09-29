@@ -13,7 +13,7 @@ function(record) {
     }
 
     function beforeSubmit(scriptContext) {
-    	log.debug('Test2 for Release2 changes');
+    	log.debug('Test for Release2 changes');
     }
 
     function afterSubmit(scriptContext) {
