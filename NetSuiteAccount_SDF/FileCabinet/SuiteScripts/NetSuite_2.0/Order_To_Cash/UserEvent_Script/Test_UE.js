@@ -9,11 +9,11 @@ function(record) {
    
   
     function beforeLoad(scriptContext) {
-    	log.debug('Test1');
+    	log.debug('Test12');
     }
 
     function beforeSubmit(scriptContext) {
-    	log.debug('Test for Release2 changes');
+    	log.debug('Test for Release33 changes');
     }
 
     function afterSubmit(scriptContext) {
