@@ -9,7 +9,7 @@ function(record) {
    
   
     function beforeLoad(scriptContext) {
-    	log.debug('Test12');
+    	log.debug('Test123');
     }
 
     function beforeSubmit(scriptContext) {
